@@ -30,7 +30,7 @@ The production source code is **not published** in this repository. This is a cl
 
 ## Portfolio Note
 
-The screenshot above is an archived project preview from my portfolio records. A client's live website may have changed after delivery, so the current production site should not automatically be treated as an exact representation of the version shown here).
+The screenshot above is an archived project preview from my portfolio records. A client's live website may have changed after delivery, so the current production site should not automatically be treated as an exact representation of the version shown here.
 
 ## Rights & Attribution
 
